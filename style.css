@@ -1,0 +1,14 @@
+.gallery {
+    background-color: rebeccapurple;
+    padding: 1em;
+}
+
+
+/* pour pouvoir écraser le css de bootstrap, on ajoute le parametre 
+
+
+*/
+.active {
+    color: red !important;
+    font-weight: bolder !important;
+}
